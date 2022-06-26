@@ -1,0 +1,45 @@
+#logosoa{
+    width: 40px;
+}
+.main{
+    border: 2px solid ;
+    height: 100vh;
+   
+    background: linear-gradient(rgba(5, 48, 28, 0.938),rgba(115, 138, 216, 0.575)) ,url("WhatsApp\ Image\ 2022-01-23\ at\ 10.53.04\ AM\ \(2\).jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
+.smal{
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+   
+    text-align: center;
+}
+.footer{
+    width: 100%;  
+    position: static;
+    bottom: 0;
+    text-align: center;
+    font-size: large;
+    text-decoration: none;
+    color: #04867cfb;;
+}
+i{
+    margin: 10px;  
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
+}
+i:hover{
+    background-color: #04867cfb;
+}
+.lop{
+    font-size: small;
+}
+.fa-arrow-up:hover{
+    background-color: #04867cfb;
+}

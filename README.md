@@ -5,4 +5,4 @@ This project Y is a team project of Rajendra Ku. Mohapatra and Abhishek Sahoo.
 
 based on the college website
 
-# To see the output [CLICK HERE](  https://rajendrakumarmohapatra.github.io/ITER-SoA.in/project-y/index.html)
+# To see the output [CLICK HERE](  https://rajendradevv.github.io/ITER-SoA.in/project-y/index.html)

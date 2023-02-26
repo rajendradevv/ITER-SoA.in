@@ -15,4 +15,4 @@ Finally, I used jQuery to add interactive elements to my website, such as dropdo
 This project Y is a team project of Rajendra Ku. Mohapatra and Abhishek Sahoo.
 
 
-# To see the output [CLICK HERE](  https://rajendradevv.github.io/ITER-SoA.in/project-y/index.html)
+# VISIT WEBSITE [SoA.in](  https://rajendradevv.github.io/ITER-SoA.in/project-y/index.html)

@@ -13,8 +13,6 @@ Using Bootstrap to build my website allowed me to create a responsive design tha
 
 Finally, I used jQuery to add interactive elements to my website, such as dropdown menus, pop-up windows, and animated transitions. These elements help make my website more engaging and user-friendly. Overall, I have created a comprehensive website for my college that provides a wealth of information for students, faculty, and prospective applicants.
 This project Y is a team project of Rajendra Ku. Mohapatra and Abhishek Sahoo.
-# PROJECT_Y
 
-based on the college website
 
 # To see the output [CLICK HERE](  https://rajendradevv.github.io/ITER-SoA.in/project-y/index.html)
